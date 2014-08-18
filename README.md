@@ -13,4 +13,4 @@ Create a multi-player LAN based Snakes and Ladders game in Java. The game allows
 
 This project was done in collaboration with a colleague and allowed me to experience pair programming for the first time. 
 
-![alt text](https://github.com/alifazel/SnakesAndLadders/blob/master/board.png Screenshot of Board
+![alt text](https://github.com/alifazel/SnakesAndLadders/blob/master/board.png "Screenshot of Board")
